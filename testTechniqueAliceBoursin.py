@@ -85,25 +85,3 @@ print("Exemple avec tous les albums d\'Orelsan récupérés sur l'API Spotify : 
 artist_name = 'Orelsan'
 album_names = get_album_names(artist_name)
 print_substrings(album_names)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
